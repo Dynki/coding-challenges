@@ -7,7 +7,6 @@ This repository contains a collection of completed tech tests and challenges foc
 ## Contents
 
 - [React Challenges](#react-challenges)
-- [Node.js Challenges](#nodejs-challenges)
 - [Algorithmic Challenges](#algorithmic-challenges)
 
 ## React Challenges
